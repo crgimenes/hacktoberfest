@@ -25,3 +25,4 @@ Name | Description | Issues
 **mitose** | Easy Kubernetes autoscaler controller. | [https://github.com/luizalabs/mitose](https://github.com/luizalabs/mitose)
 **brdoc** | Brazilian docs (CPF, CNPJ, CEP and license plate) validator for Go! | [https://github.com/Nhanderu/brdoc](https://github.com/Nhanderu/brdoc)
 **nssh** | An easy way to manage SSH connections and sshconfig records | [https://github.com/nicolascb/nssh](https://github.com/nicolascb/nssh)
+**minha-receita** | API web para consulta de informações do CNPJ (Cadastro Nacional da Pessoa Jurídica) da Receita Federal. | [https://github.com/cuducos/minha-receita](https://github.com/cuducos/minha-receita)
