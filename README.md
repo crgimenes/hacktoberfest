@@ -24,3 +24,4 @@ Name | Description | Issues
 **huskyCI** | Ferramenta da Globo.com para executar testes de segurança dentro do CI | [https://github.com/globocom/huskyCI](https://github.com/globocom/huskyCI)
 **mitose** | Easy Kubernetes autoscaler controller. | [https://github.com/luizalabs/mitose](https://github.com/luizalabs/mitose)
 **brdoc** | Brazilian docs (CPF, CNPJ, CEP and license plate) validator for Go! | [https://github.com/Nhanderu/brdoc](https://github.com/Nhanderu/brdoc)
+**minha-receita** | API web para consulta de informações do CNPJ (Cadastro Nacional da Pessoa Jurídica) da Receita Federal. | [https://github.com/cuducos/minha-receita](https://github.com/cuducos/minha-receita)
