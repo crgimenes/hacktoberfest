@@ -7,6 +7,7 @@ Lista de projetos [Go](https://golang.org) brasileiros aceitando contribuições
 
 Name | Description | Issues
 --- | --- | ---
+**boneless** | A CLI (Command Line Interface) to create your apps with Service Weaver, using gomigrate, sqlc, and Fiber. | [https://github.com/renanbastos93/boneless](https://github.com/renanbastos93/boneless)
 **go-city** | Metáfora de cidades para visualizar código fonte | [https://github.com/rodrigo-brito/gocity](https://github.com/rodrigo-brito/gocity) |
 **go-stunning-garbanzo** | API com dupla implementação, utilizando HTTP e WebSocket. |[https://github.com/RafaelGomides/go-stunning-garbanzo/](https://github.com/RafaelGomides/go-stunning-garbanzo/labels/hacktoberfest)
 **goconfig** | Carrega configurações automaticamente |[https://github.com/crgimenes/goconfig](https://github.com/crgimenes/goconfig)
